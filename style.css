@@ -1,0 +1,8 @@
+body {
+    background-image: radial-gradient(lavenderblush, pink, salmon);
+    background-attachment: fixed;
+}
+
+h1, h3, p {
+    text-align: center;
+}
