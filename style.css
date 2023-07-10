@@ -1,3 +1,7 @@
+* {
+    font-family: monospace;
+}
+
 body {
     background-image: radial-gradient(lavenderblush, pink, salmon);
     background-attachment: fixed;
@@ -5,4 +9,15 @@ body {
 
 h1, h3, p, td {
     text-align: center;
+}
+
+.opcion {
+    width: 100%;
+    font-family: fantasy;
+}
+
+.opciones {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
