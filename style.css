@@ -15,7 +15,9 @@ h1, h3, p, td {
     width: 100%;
     font-family: cursive;
     border: none;
+    border-radius: 5px;
     background: none;
+    transition: background-color 1s ease;
 }
 
 .opciones {
@@ -26,4 +28,7 @@ h1, h3, p, td {
 
 .muestra {
     width: 30%;
+}
+.opcion:hover {
+    background-color: aliceblue;
 }
