@@ -14,6 +14,8 @@ h1, h3, p, td {
 .opcion {
     width: 100%;
     font-family: cursive;
+    border: none;
+    background: none;
 }
 
 .opciones {
